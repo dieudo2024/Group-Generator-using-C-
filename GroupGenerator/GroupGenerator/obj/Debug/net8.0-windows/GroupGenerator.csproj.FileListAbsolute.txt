@@ -1,0 +1,34 @@
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.exe
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.deps.json
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.runtimeconfig.json
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.dll
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.pdb
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.Form1.resources
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.csproj.GenerateResource.cache
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.AssemblyInfoInputs.cache
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.AssemblyInfo.cs
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.csproj.CoreCompileInputs.cache
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.dll
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\refint\GroupGenerator.dll
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.pdb
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.genruntimeconfig.cache
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\ref\GroupGenerator.dll
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.exe
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.deps.json
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.runtimeconfig.json
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.dll
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\bin\Debug\net8.0-windows\GroupGenerator.pdb
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.Form1.resources
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.AssemblyInfo.cs
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.dll
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\refint\GroupGenerator.dll
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.pdb
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.genruntimeconfig.cache
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\ref\GroupGenerator.dll
+C:\Users\User\OneDrive - Champlain Regional College\Documents\OOP 1\FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.DisplayGroupForm.resources
+C:\Users\adm1\OneDrive - Champlain Regional College\Emmanuelle Isis, Mbeugmo Manekeu's files - FinalProject\GroupGenerator\GroupGenerator\obj\Debug\net8.0-windows\GroupGenerator.DisplayGroupForm.resources

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupGenerator", "GroupGenerator\GroupGenerator.csproj", "{47882CCB-E925-4E50-AC7D-5B4F5E23B4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47882CCB-E925-4E50-AC7D-5B4F5E23B4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47882CCB-E925-4E50-AC7D-5B4F5E23B4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47882CCB-E925-4E50-AC7D-5B4F5E23B4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47882CCB-E925-4E50-AC7D-5B4F5E23B4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
